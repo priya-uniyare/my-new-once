@@ -1,2 +1,2 @@
 # my-new-once
-This is am learning a git hub
+now days i am learning a git hub
